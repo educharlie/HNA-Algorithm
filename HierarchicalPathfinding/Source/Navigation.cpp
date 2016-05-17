@@ -380,7 +380,6 @@ void Navigation::getPath(int fromPosId, int toPosId, Graph::Node *node, int l, d
 			}
 			break;
 		}
-		
 	}
 }
 
